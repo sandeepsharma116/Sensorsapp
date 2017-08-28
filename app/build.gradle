@@ -30,4 +30,6 @@ dependencies {
     compile 'com.android.support:design:26.+'
     testCompile 'junit:junit:4.12'
     compile files('src/main/java/com/example/manoj/sensors/commons-math.jar')
+    compile files('src/main/java/com/example/sandeep/sensors/GraphView-4.2.1.jar')
+    compile files('src/main/java/com/example/sandeep/sensors/commons-math.jar')
 }
